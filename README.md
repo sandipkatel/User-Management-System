@@ -1,5 +1,5 @@
 
-# Fullstack FastAPI + Next.js Application
+# Fullstack User Management System
 
 This repository contains a fullstack web application with a **FastAPI backend** and a **Next.js frontend**, designed to run locally or inside Docker containers with environment-based API routing.
 
